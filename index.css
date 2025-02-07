@@ -1,0 +1,21 @@
+h1{
+    background-color: rgb(28, 178, 20);
+    color: rgb(19, 116, 200);
+    text-align: center;
+    height: 50px;
+    padding-top: 10px;
+}
+
+body{
+    background-color: rgb(184, 146, 21);
+}
+
+p{
+    border: 2px solid rgb(68, 7, 111);
+    background-color: rgb(61, 113, 16);
+    color: rgb(33, 43, 189)1, 255;
+    height: 30px;
+    width: 150px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
